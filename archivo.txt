@@ -1,1 +1,2 @@
 esta es otra prueba
+mi archivo.txt no se borro al final! todo marcha bien
